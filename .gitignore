@@ -1,0 +1,5 @@
+.build/
+cmdcmd.app/
+cmdcmd.dmg
+.DS_Store
+Resources/AppIcon.iconset/
